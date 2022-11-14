@@ -193,6 +193,14 @@ span{
     .cards-container{
         grid-column: 1/-1;
     }
+    .card1,.card2,.card3{
+        height: 235px;
+        width: 352px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    
 }
 /* responsive desktop <1160px*/
 @media only screen and (min-width: 1160px){
@@ -217,7 +225,6 @@ span{
     margin: 0;
  }
  h1{
-    font-size: 50px;
     text-align: left;
     margin: 0;
     line-height: 45px;
