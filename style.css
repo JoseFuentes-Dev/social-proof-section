@@ -220,7 +220,7 @@ span{
     }
 } 
 /* responsive desktop <1440px*/
-@media only screen and (min-width: 1440px){
+@media only screen and (min-width: 1400px){
  .top{
     max-width: 430px;
     margin: 0;
